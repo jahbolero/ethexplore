@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Ethereum Explorer
 
 ## Ethereum Setup
 1. `ganache-cli`
